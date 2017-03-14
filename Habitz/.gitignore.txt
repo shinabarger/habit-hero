@@ -32,4 +32,4 @@ target/
 
 hibernate.cfg.xml
 
-FBLogin.java
+/FBLogin.java
